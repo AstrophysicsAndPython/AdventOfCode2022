@@ -1,2 +1,2 @@
 # AdventOfCode2022
-My attempt at AOC2022
+My attempt at AOC2022.
