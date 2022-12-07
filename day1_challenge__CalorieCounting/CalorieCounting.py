@@ -2,6 +2,6 @@
 
 from _backend import list_parser
 
-max_calories = list_parser('./CalorieCounting_submission.txt')
+max_calories = list_parser('./CalorieCounting__submission.txt')
 
 print(max_calories)
